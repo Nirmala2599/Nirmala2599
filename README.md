@@ -1,4 +1,4 @@
-<h1 align="center">Hi!,<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=50px width = 50px>, </h1> I'm Nirmala</h1>
+<h1 align="center">Hi!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=50px width = 50px>, I'm Nirmala</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmala2599&label=Profile%20views&color=0e75b6&style=flat" alt="nirmala2599" /> </p>
@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmala2599&theme=dark" alt="nirmala2599" /></p>
 
 
-<h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>### Hi there 👋
+<h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
 
 <!--
 **Nirmala2599/Nirmala2599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
