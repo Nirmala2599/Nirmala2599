@@ -33,9 +33,9 @@
 
 <h2> <b>My GitHub Status 👨‍💻 </b> </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmala2599&show_icons=true&theme=tokyonight&title_color=f6097c&text_color=f6097c&locale=en&layout=compact" alt="nirmala2599" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmala2599&show_icons=true&theme=tokyonight&title_color=f6097c&text_color=f6097c&locale=en&layout=compact" alt="nirmala2599" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmala2599&show_icons=true&theme=tokyonight&title_color=f6097c&text_color=f6097c&bg_color=0a0a0a&locale=en" alt="nirmala2599" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmala2599&show_icons=true&theme=tokyonight&title_color=f6097c&text_color=f6097c&bg_color=0a0a0a&locale=en" alt="nirmala2599" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmala2599&theme=dark" alt="nirmala2599" /></p>
 
