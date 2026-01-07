@@ -32,16 +32,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <h2> <b>My GitHub Status 👨‍💻 </b> </h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmala2599&show_icons=true&theme=tokyonight&title_color=f6097c&text_color=f6097c&locale=en&layout=compact" alt="nirmala2599" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmala2599&show_icons=true&theme=tokyonight&title_color=f6097c&text_color=f6097c&bg_color=0a0a0a&locale=en" alt="nirmala2599" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmala2599&theme=dark" alt="nirmala2599" /></p>
-
-
 <h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
-
 <!--
 **Nirmala2599/Nirmala2599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
