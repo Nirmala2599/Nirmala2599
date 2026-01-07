@@ -32,6 +32,9 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <h2> <b>My GitHub Status 👨‍💻 </b> </h2>
+![](https://github-readme-stats.vercel.app/api?username=cyber-traveller&theme=merko&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cyber-traveller&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-traveller&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
 <!--
 **Nirmala2599/Nirmala2599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
